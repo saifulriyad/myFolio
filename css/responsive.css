@@ -1,0 +1,129 @@
+@media (min-width:992px) and (max-width:1199.98px){
+    #banner .carousel-caption h1 {
+        font-size: 43px;
+        letter-spacing: 20px;
+    } 
+    #banner .carousel-caption h5 {
+        font-size: 25px;
+    }
+    #banner .carousel-caption p {
+        font-size: 15px;
+    }
+    .work_items .overly {
+        left: 20px;
+        right: 20px;
+    }
+    .work_items .overly p {
+        padding: 0 7px;
+    }
+    .work_items .overly h3 {
+        padding: 10px 0 8px 0;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+    #myNav ul li a{
+        padding: 21px 15px;
+    }
+    #banner .carousel-item {
+        height: 500px;
+    }
+    #banner .carousel-caption h1 {
+        font-size: 37px;
+        letter-spacing: 13px;
+    }
+    #banner .carousel-caption h5 {
+        font-size: 20px;
+    }
+    #banner .carousel-caption p {
+        font-size: 13px;
+    }
+    #banner .carousel-caption a {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    .about_item {
+        padding: 20px 26px;
+        border-bottom: 1px solid #d9dbdb;
+    }
+    .work_items .overly h3 {
+        padding: 50px 0 36px 0;
+    }
+}
+@media (max-width:991.98px){
+    #about .section_heading p span{
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .about_border {
+        border-right: none;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px){
+    #banner .carousel-item {
+        height: 400px;
+    }
+    #banner .carousel-caption h1 {
+        font-size: 40px;
+        letter-spacing: 5px;
+    } 
+    #banner .carousel-caption h5 {
+        font-size: 22px;
+    } 
+    #banner .carousel-caption p {
+        font-size: 15px;
+    }
+    #banner .carousel-caption a {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    .work_items .overly h3 {
+        padding: 27px 0 20px 0;
+    }
+    .work_items .overly p {
+        padding: 0 5px;
+    }
+}
+@media (max-width:767.98px){
+    .main_menu {
+        padding: 10px 0;
+    }
+    #myNav ul li a {
+        padding: 10px 5px;
+    }
+    #myNav ul{
+        margin-top: 15px;
+    }
+    #banner .carousel-caption{
+        right: 0;
+        left: 0;
+    }
+    .about_item {
+        padding: 15px 10px;
+    }
+    #services {
+        text-align: center;
+    }
+}
+    
+@media (max-width:575.98px){
+    #banner .carousel-item {
+        height: 300px;
+    }
+    #banner .carousel-caption h1{
+        font-size: 28px;
+        letter-spacing: 0px;
+    }
+    #banner .carousel-caption h5{
+        font-size: 12px;
+    }
+    #banner .carousel-caption p{
+        font-size: 9px;
+    }
+    #banner .carousel-caption a {
+        font-size: 10px;
+        padding: 10px 20px;
+    }
+    .work_items .overly h3 {
+        padding: 25px 0 30px 0;
+    }
+}
